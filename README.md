@@ -2,18 +2,20 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-Hey 👋, I'm Mahmoud.<br><br>
+Hey 👋, I'm <b>Mahmoud</b> from Mansoura, Egypt.<br><br>
 
-I'm a Computer & Information Sciences student with a strong focus on BI & Data Engineering.<br>
-I build scalable and reliable data pipelines and analytics workflows, with hands-on experience using Apache Spark, Apache Hadoop, Apache Airflow, and dbt.<br><br>
+I'm a <b>Computer & Information Sciences</b> student with a strong focus on <b>BI & Data Engineering</b>.<br>
+I design and build scalable data pipelines, analytics workflows, and dashboards, with hands-on experience in <b>Apache Spark, Apache Hadoop, Apache Airflow</b>, and <b>dbt</b>.<br><br>
 
-I'm proficient in Python, SQL, Docker, Git, and Linux, with solid knowledge of databases, data warehousing, distributed systems, and algorithms.<br>
-I also develop dashboards and analytical reports using Power BI, transforming raw data into meaningful insights and real business value.<br><br>
+💻 Proficient in <b>Python, SQL, Docker, Git, and Linux</b>, with solid knowledge of databases, data warehousing, distributed systems, and algorithms.<br>
+📊 I transform raw data into actionable insights and real business value using <b>Power BI</b> and analytical reporting.<br><br>
 
-My interests include modern data architecture, stream & batch processing, orchestration, and optimizing data workflows for performance and scalability.
+🎯 Interests: modern data architecture, stream & batch processing, orchestration, and optimizing data workflows for performance and scalability.<br>
+⚽ Outside work: football, tech blogging, and exploring new technologies.
 </p>
 
-<hr>
+<hr style="border: 1px solid #ddd;">
+
 
 <!-- ================= Tools ================= -->
 <h2 align="center">Tools</h2>
