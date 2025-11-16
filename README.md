@@ -4,14 +4,14 @@
 <p align="center">
 Hey 👋, I'm <b>Mahmoud</b> from Mansoura, Egypt.<br><br>
 
-I'm a <b>Computer & Information Sciences</b> student with a strong focus on <b>BI & Data Engineering</b>.<br>
-I design and build scalable data pipelines, analytics workflows, and dashboards, with hands-on experience in <b>Apache Spark, Apache Hadoop, Apache Airflow</b>, and <b>dbt</b>.<br><br>
+<ul>
+  <li>Data engineer focused on designing reliable, scalable, and value-driven data solutions.</li>
+  <li>Skilled in transforming raw data into trusted, insight-ready assets that support informed decisions.</li>
+  <li>Interested in modern data architecture, workflow orchestration, and performance optimization.</li>
+  <li>Motivated by measurable impact, continuous learning, and solving real-world data challenges.</li>
+  <li>Outside tech, I enjoy football and exploring new emerging technologies.</li>
+</ul>
 
-💻 Proficient in <b>Python, SQL, Docker, Git, and Linux</b>, with solid knowledge of databases, data warehousing, distributed systems, and algorithms.<br>
-📊 I transform raw data into actionable insights and real business value using <b>Power BI</b> and analytical reporting.<br><br>
-
-🎯 Interests: modern data architecture, stream & batch processing, orchestration, and optimizing data workflows for performance and scalability.<br>
-⚽ Outside work: football, tech blogging, and exploring new technologies.
 </p>
 
 <hr style="border: 1px solid #ddd;">
