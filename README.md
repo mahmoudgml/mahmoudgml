@@ -2,7 +2,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-Hey 👋, I'm <b>Mahmoud</b> from Mansoura, Egypt.<br><br>
+Hey 👋, I'm <b>Mahmoud<br>
 
 <ul>
   <li>Data engineer focused on designing reliable, scalable, and value-driven data solutions.</li>
